@@ -93,7 +93,7 @@ int main() {
         cin >> favoriteAlbum;
 
     // Prompt user to input their favorite concert 
-        cout << "Enter your favorite concert that you have attended: " << endl;
+        cout << "Enter your favorite concert that you have attended: \n" << endl;
         cin >> concertName;
 
     return 0; // End of the program
